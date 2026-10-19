@@ -1,0 +1,6 @@
+{
+  "name": "Kofçaz HEM - Modern Arıcılık ve Kovan Yönetimi Kursu",
+  "description": "T.C. Millî Eğitim Bakanlığı Kofçaz Halk Eğitimi Merkezi bünyesinde kırsal üreticilerimiz için hazırlanan Modern Arıcılık ve Kovan Yönetimi Kursu resmî tanıtım, başvuru ve eğitim portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
